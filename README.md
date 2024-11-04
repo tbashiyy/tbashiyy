@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi I'm tbashiyy 👋
 
-<!--
-**tbashiyy/tbashiyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm software engineer in Japan.
 
-Here are some ideas to get you started:
+Using
+- TypeScript
+- Vue.js
+- Kotlin
+- Rust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recently, I focus to contribute [oxc-project/oxc](https://github.com/oxc-project/oxc)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbashiyy)](https://github.com/anuraghazra/github-readme-stats)
