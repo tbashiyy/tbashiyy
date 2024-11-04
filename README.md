@@ -8,6 +8,6 @@ Using
 - Kotlin
 - Rust
 
-Recently, I focus to contribute [oxc-project/oxc](https://github.com/oxc-project/oxc)
+Recently, I focus to contribute [oxc-project/oxc](https://github.com/oxc-project/oxc).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbashiyy)](https://github.com/anuraghazra/github-readme-stats)
