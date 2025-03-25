@@ -5,6 +5,7 @@ I'm software engineer in Japan.
 Using
 - TypeScript
 - Vue.js
+- Svelte
 - Kotlin
 - Rust
 
